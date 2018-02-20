@@ -1,4 +1,4 @@
-# HQ-PIs-for-DeepLearning
+# High-Quality Prediction Intervals for Deep Learning: A Distribution-Free, Ensembled Approach
 
 -- PLACEHOLDER --
 
