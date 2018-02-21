@@ -1,6 +1,6 @@
 # High-Quality Prediction Intervals for Deep Learning
 
-Code accompanying the paper [High-Quality Prediction Intervals for Deep Learning: A Distribution-Free, Ensembled Approach](https://arxiv.org/abs/1802.07167).
+Code accompanying the paper High-Quality Prediction Intervals for Deep Learning: A Distribution-Free, Ensembled Approach [https://arxiv.org/abs/1802.07167](https://arxiv.org/abs/1802.07167).
 
 
 ## Intro
@@ -35,4 +35,4 @@ Recommended inputs for model uncertainty estimates on synthetic data:
 <img width="250" src="images/intro_model_unc.png">
 
 
-Paper available at [https://arxiv.org/abs/1802.07167](https://arxiv.org/abs/1802.07167).
+
