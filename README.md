@@ -1,4 +1,4 @@
-# High-Quality Prediction Intervals for Deep Learning: A Distribution-Free, Ensembled Approach
+# High-Quality Prediction Intervals for Deep Learning
 
 Code accompanying the paper [High-Quality Prediction Intervals for Deep Learning: A Distribution-Free, Ensembled Approach](https://arxiv.org/abs/1802.07167).
 
