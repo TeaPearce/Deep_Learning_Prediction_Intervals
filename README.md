@@ -7,11 +7,11 @@ Code is provided to accompany the paper [High-Quality Prediction Intervals for D
 
 How can we get uncertainty estimates from deep learning systems? 
 
-<img width="700" src="intro_model_unc.png">
+<img width="700" src="images/intro_model_unc.png">
 
 _Estimating model uncertainty._
 
-<img width="700" src="intro_4_grid.png">
+<img width="700" src="images/intro_4_grid.png">
 
 _Comparison against MVE._
 
