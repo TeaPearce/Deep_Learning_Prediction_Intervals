@@ -24,8 +24,9 @@ DataGen.py
 DeepNetPI.py
 utils.py
 
-Run main.py to get model uncertainty estimates
-<img width="300" src="intro_model_unc.png">
+Run main.py to get model uncertainty estimates.
+
+<img width="250" src="images/intro_model_unc.png">
 
 
 Paper available at [https://arxiv.org/abs/1802.07167](https://arxiv.org/abs/1802.07167).
