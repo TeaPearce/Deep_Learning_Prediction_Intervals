@@ -1,6 +1,6 @@
 # High-Quality Prediction Intervals for Deep Learning: A Distribution-Free, Ensembled Approach
 
-Code is provided to accompany the paper [High-Quality Prediction Intervals for Deep Learning: A Distribution-Free, Ensembled Approach](https://arxiv.org/abs/1802.07167).
+Code accompanying the paper [High-Quality Prediction Intervals for Deep Learning: A Distribution-Free, Ensembled Approach](https://arxiv.org/abs/1802.07167).
 
 
 ## Intro
@@ -18,13 +18,19 @@ _Comparison against MVE._
 
 ## Code Structure
 
-main.py
-pso.py
-DataGen.py
-DeepNetPI.py
-utils.py
+Code in 5 files:
+
+* main.py
+* pso.py
+* DataGen.py
+* DeepNetPI.py
+* utils.py
+* inputs_suggested.py
 
 Run main.py to get model uncertainty estimates.
+
+Recommended inputs for model uncertainty estimates on synthetic data:
+
 
 <img width="250" src="images/intro_model_unc.png">
 
