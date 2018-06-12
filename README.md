@@ -25,14 +25,12 @@ Code in 5 files:
 * DataGen.py
 * DeepNetPI.py
 * utils.py
-* inputs_suggested.py
+* inputs.txt
 
-Run main.py to get model uncertainty estimates.
+Run main.py to reproduce first figure.
 
-Recommended inputs for model uncertainty estimates on synthetic data:
+We have included inputs used for the boston and concrete datasets in inputs.txt.
 
-
-<img width="250" src="images/intro_model_unc.png">
 
 
 
