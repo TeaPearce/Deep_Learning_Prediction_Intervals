@@ -35,7 +35,7 @@ Main paper code in 5 files:
 
 Run main.py to reproduce first figure.
 
-We have included inputs used for the boston and concrete datasets in inputs.txt.
+We have included hyperparameters used for the boston and concrete datasets in inputs.txt.
 
 
 
