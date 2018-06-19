@@ -7,18 +7,17 @@ Code accompanying the paper High-Quality Prediction Intervals for Deep Learning:
 
 How can we get uncertainty estimates from deep learning systems? 
 
-<img width="700" src="images/intro_model_unc.png">
+<img width="500" src="images/intro_model_unc.png">
+<sub> Estimating model uncertainty. </sub>
 
-_Estimating model uncertainty._
 
-<img width="700" src="images/intro_4_grid.png">
-
-_Comparison against MVE._
+<img width="500" src="images/intro_4_grid.png">
+<sub> Comparison against MVE.</sub>
 
 
 ## Jupyter Notebook Keras Demo
 
-A simple fast demo using Keras is included in QD_AsFastAsPoss_notebook.ipynb.
+A simple fast demo using Keras is included in [QD_AsFastAsPoss_notebook.ipynb](QD_AsFastAsPoss_notebook.ipynb).
 
 
 ## Code Structure
