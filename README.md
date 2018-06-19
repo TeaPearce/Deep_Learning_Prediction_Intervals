@@ -7,12 +7,12 @@ Code accompanying the paper High-Quality Prediction Intervals for Deep Learning:
 
 How can we get uncertainty estimates from deep learning systems? 
 
-<img width="500" src="images/intro_model_unc.png">
 <sub> Estimating model uncertainty. </sub>
+<img width="500" src="images/intro_model_unc.png">
 
-
-<img width="500" src="images/intro_4_grid.png">
 <sub> Comparison against MVE.</sub>
+<img width="500" src="images/intro_4_grid.png">
+
 
 
 ## Jupyter Notebook Keras Demo
