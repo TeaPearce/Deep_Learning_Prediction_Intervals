@@ -16,9 +16,14 @@ _Estimating model uncertainty._
 _Comparison against MVE._
 
 
+## Jupyter Notebook Keras Demo
+
+A simple fast demo using Keras is included in QD_AsFastAsPoss_notebook.ipynb.
+
+
 ## Code Structure
 
-Code in 5 files:
+Main paper code in 5 files:
 
 * main.py
 * pso.py
@@ -30,6 +35,7 @@ Code in 5 files:
 Run main.py to reproduce first figure.
 
 We have included inputs used for the boston and concrete datasets in inputs.txt.
+
 
 
 
