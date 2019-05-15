@@ -1,6 +1,6 @@
 # High-Quality Prediction Intervals for Deep Learning
 
-Code accompanying the paper High-Quality Prediction Intervals for Deep Learning: A Distribution-Free, Ensembled Approach [https://arxiv.org/abs/1802.07167](https://arxiv.org/abs/1802.07167).
+Code accompanying the ICML 2018 paper High-Quality Prediction Intervals for Deep Learning: A Distribution-Free, Ensembled Approach [https://arxiv.org/abs/1802.07167](https://arxiv.org/abs/1802.07167).
 
 
 ## Intro
